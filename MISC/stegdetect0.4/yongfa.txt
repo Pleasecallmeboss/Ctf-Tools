@@ -1,0 +1,4 @@
+stegdetect
+stegdetect.exe -tjopi -s 10.0 hide.jpg
+stegbreak
+stegbreak.exe -r rules.ini -f password.txt -r p hide.jpg
